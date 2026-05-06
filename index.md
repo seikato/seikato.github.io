@@ -178,8 +178,8 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
       letter-spacing: 0.06em;
     }
   </style>
+  <meta name="google-site-verification" content="H66XK3KpoMoKBXVHcdMxmtr8StbV-LTAYXXuDJkYkno" />
 </head>
-<meta name="google-site-verification" content="H66XK3KpoMoKBXVHcdMxmtr8StbV-LTAYXXuDJkYkno" />
 <body>
     <!-- Academic & Professional -->
     <section class="section">
