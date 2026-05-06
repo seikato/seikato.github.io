@@ -205,7 +205,7 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
         </a>
         <a class="link-card" href="https://www.toyota-tokyo.tech/members/seikato.html" target="_blank" rel="noopener">
           <img src="https://www.google.com/s2/favicons?domain=toyota-tokyo.tech&sz=32" alt="">
-          <span>Toyota Research</span>
+          <span>TOYOTA InfoTech</span>
         </a>
         <a class="link-card" href="https://sites.google.com/view/seikato/" target="_blank" rel="noopener">
           <img src="https://www.google.com/s2/favicons?domain=sites.google.com&sz=32" alt="">
