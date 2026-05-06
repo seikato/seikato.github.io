@@ -273,7 +273,21 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
         </a>
       </div>
     </section>
-</body>
+
+    <!-- Presentations -->
+    <section class="section">
+      <div class="section-header">
+        <span class="section-title">Presentations</span>
+        <div class="section-line"></div>
+      </div>
+    <div class="link-grid">
+      <a class="link-card" href="https://www.slideshare.net/seikato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=slideshare.net&sz=32" alt="">
+          <span>SlideShare</span>
+      </a>
+    </div>
+    </section>
+  </body>
 </html>
 
 <!--
