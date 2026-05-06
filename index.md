@@ -5,6 +5,11 @@ layout: default
 # Sei Kato / 加藤 整
 
 ## Profile
+
+<img src="assets/img/portrait.PNG"
+     alt="Sei Kato"
+          style="float: right; margin: 0 0 1em 1.5em; width: 160px; border-radius: 50%;">
+
 Sei Kato has been a group manager of Toyota Motor Corporation since 2018. He gained his B.Eng., and M. Eng. Degrees from the University of Tokyo, Tokyo, Japan, in 1997, 1999, and subsequently he received his Ph.D. in Mathematical Science from the University of Tokyo in 2002 on statistical properties of fluid turbulence. 
 In 2002, he became a research scientist at IBM Research – Tokyo, where he was engaged in research on the extreme value analysis and multi-agent systems. 
 In 2012, he has moved to the Business Consulting Division of IBM, and lead consulting projects in the area of business creation, data analytics, and marketing strategy planning. 
