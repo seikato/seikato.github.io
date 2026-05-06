@@ -191,13 +191,21 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
           <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=32" alt="">
           <span>Google Scholar</span>
         </a>
+        <a class="link-card" href="https://dblp.org/pid/26/82.html" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=dblp.org&sz=32" alt="">
+          <span>dblp</span>
+        </a>
+        <a class="link-card" href="https://www.researchgate.net/profile/Sei-Kato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=32" alt="">
+          <span>ResearchGate</span>
+        </a>
         <a class="link-card" href="https://researchmap.jp/seikato" target="_blank" rel="noopener">
           <img src="https://www.google.com/s2/favicons?domain=researchmap.jp&sz=32" alt="">
           <span>researchmap</span>
         </a>
         <a class="link-card" href="https://www.toyota-tokyo.tech/members/seikato.html" target="_blank" rel="noopener">
           <img src="https://www.google.com/s2/favicons?domain=toyota-tokyo.tech&sz=32" alt="">
-          <span>TOYOTA InfoTech</span>
+          <span>Toyota Research</span>
         </a>
         <a class="link-card" href="https://sites.google.com/view/seikato/" target="_blank" rel="noopener">
           <img src="https://www.google.com/s2/favicons?domain=sites.google.com&sz=32" alt="">
