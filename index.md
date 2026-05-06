@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Sei Kato / 加藤 整
+# Links and Profiles
 
 ## Profile
 
@@ -31,7 +31,7 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
 ## 略歴
 2002年IBM東京基礎研究所に研究者として入社。オートノミックコンピューティング，ディペンダブルコンピューティングプロジェクトに参画。2007年より大都市交通流シミュレーションプロジェクトのリーダーを務め、日本IBM未来価値創造事業部と連携しながら日本IBMのスマーターシティイニシアティブに携わる。2008年6月に京都大学情報学研究科社会情報学専攻との共同研究成果をプレスリリース"IBM Research and Kyoto University Create First of a Kind System to Simulate Urban Transportation"。2012年に戦略コンサルタントとして日本IBMビジネスコンサルティングサービスに異動後、自動車販売台数需要予測(質の予測)、新規事業開発、R&D戦略立案、マーケティング戦略立案などの支援サービスを通じて顧客の変革を推進するコンサルティングサービスで、さまざまなリーダーシップを発揮。2014年10月にトヨタIT開発センターに参画、トヨタ自動車の調査企画機能を担当。2018年4月よりトヨタ自動車のコネクティッド領域における先行開発グループマネージャ、2021年1月よりシステムソフトウェア開発グループのグループマネージャに就任、SDV化によるクルマ価値向上取り組み推進。IBM・トヨタ自動車以外では、2010年より日本シミュレーション学会理事，2011年より同学会戦略検討委員長，2003年より情報処理学会数理モデル化と問題解決の運営委員・協力委員。学術面では、東京大学・会津大学などで講義担当。神奈川県出身
 
----
+## Links
 
 <html lang="en">
 <head>
@@ -184,7 +184,7 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
 
     <header class="page-header">
       <!-- <h1 class="page-title">Sei Kato / 加藤 整</h1> -->
-      <p class="page-subtitle">Links &amp; Profiles</p>
+      <!-- <p class="page-subtitle">Links &amp; Profiles</p>-->
     </header>
 
     <!-- Academic & Professional -->
