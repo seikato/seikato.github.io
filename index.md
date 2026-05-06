@@ -8,12 +8,25 @@ layout: default
 
 <img src="assets/img/portrait.PNG"
      alt="Sei Kato"
+          style="float: right; margin: 0 0 1.5em 2em; width: 180px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+
+Sei Kato has been a group manager of Toyota Motor Corporation since 2018. He gained his B.Eng., and M.Eng. Degrees from the University of Tokyo, Tokyo, Japan, in 1997, 1999, and subsequently he received his Ph.D. in Mathematical Science from the University of Tokyo in 2002 on statistical properties of fluid turbulence.
+In 2002, he became a research scientist at IBM Research – Tokyo, where he was engaged in research on the extreme value analysis and multi-agent systems.
+In 2012, he moved to the Business Consulting Division of IBM, leading consulting projects in the areas of business creation, data analytics, and marketing strategy.
+In 2018, he joined Toyota Motor Corporation to lead the development of connected services based on machine learning technologies.
+
+<div style="clear: both;"></div>
+
+<!--
+<img src="assets/img/portrait.PNG"
+     alt="Sei Kato"
           style="float: right; margin: 0 0 1em 1.5em; width: 160px; border-radius: 50%;">
 
 Sei Kato has been a group manager of Toyota Motor Corporation since 2018. He gained his B.Eng., and M. Eng. Degrees from the University of Tokyo, Tokyo, Japan, in 1997, 1999, and subsequently he received his Ph.D. in Mathematical Science from the University of Tokyo in 2002 on statistical properties of fluid turbulence. 
 In 2002, he became a research scientist at IBM Research – Tokyo, where he was engaged in research on the extreme value analysis and multi-agent systems. 
 In 2012, he has moved to the Business Consulting Division of IBM, and lead consulting projects in the area of business creation, data analytics, and marketing strategy planning. 
-In 2018, he has moved to Toyota Motor Corporation to lead the development of connected services based on machine learning technologies. 
+In 2018, he has moved to Toyota Motor Corporation to lead the development of connected services based on machine learning technologies.
+-->
 
 ## 略歴
 2002年IBM東京基礎研究所に研究者として入社。オートノミックコンピューティング，ディペンダブルコンピューティングプロジェクトに参画。2007年より大都市交通流シミュレーションプロジェクトのリーダーを務め、日本IBM未来価値創造事業部と連携しながら日本IBMのスマーターシティイニシアティブに携わる。2008年6月に京都大学情報学研究科社会情報学専攻との共同研究成果をプレスリリース"IBM Research and Kyoto University Create First of a Kind System to Simulate Urban Transportation"。2012年に戦略コンサルタントとして日本IBMビジネスコンサルティングサービスに異動後、自動車販売台数需要予測(質の予測)、新規事業開発、R&D戦略立案、マーケティング戦略立案などの支援サービスを通じて顧客の変革を推進するコンサルティングサービスで、さまざまなリーダーシップを発揮。2014年10月にトヨタIT開発センターに参画、トヨタ自動車の調査企画機能を担当。2018年4月よりトヨタ自動車のコネクティッド領域における先行開発グループマネージャ、2021年1月よりシステムソフトウェア開発グループのグループマネージャに就任、SDV化によるクルマ価値向上取り組み推進。IBM・トヨタ自動車以外では、2010年より日本シミュレーション学会理事，2011年より同学会戦略検討委員長，2003年より情報処理学会数理モデル化と問題解決の運営委員・協力委員。学術面では、東京大学・会津大学などで講義担当。神奈川県出身
@@ -22,6 +35,65 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
 
 ## Links
 
+### Academic & Professional
+
+<div class="link-grid">
+  <a class="link-card" href="https://scholar.google.com/citations?user=J6hftlYAAAAJ">
+    <img src="https://scholar.google.com/favicon.ico"> Google Scholar
+  </a>
+  <a class="link-card" href="https://researchmap.jp/seikato">
+    <img src="https://researchmap.jp/favicon.ico"> researchmap
+  </a>
+  <a class="link-card" href="https://www.toyota-tokyo.tech/members/seikato.html">
+    <img src="https://www.toyota-tokyo.tech/favicon.ico"> Toyota Research
+  </a>
+  <a class="link-card" href="https://sites.google.com/view/seikato/">
+    <img src="https://www.google.com/favicon.ico"> Personal Website
+  </a>
+  <a class="link-card" href="https://www.linkedin.com/in/seikato">
+    <img src="https://www.linkedin.com/favicon.ico"> LinkedIn
+  </a>
+  <a class="link-card" href="https://about.me/seikato">
+    <img src="https://about.me/favicon.ico"> About.me
+  </a>
+</div>
+
+### Development & AI
+
+<div class="link-grid">
+  <a class="link-card" href="https://github.com/seikato/">
+    <img src="https://github.com/favicon.ico"> GitHub
+  </a>
+  <a class="link-card" href="https://huggingface.co/sei-san">
+    <img src="https://huggingface.co/favicon.ico"> Hugging Face
+  </a>
+  <a class="link-card" href="https://www.youtube.com/user/bourbakichannel">
+    <img src="https://www.youtube.com/favicon.ico"> YouTube (Bourbaki)
+  </a>
+</div>
+
+### Social Media
+
+<div class="link-grid">
+  <a class="link-card" href="https://x.com/seikato">
+    <img src="https://abs.twimg.com/favicons/twitter.3.ico"> X / Twitter
+  </a>
+  <a class="link-card" href="https://www.facebook.com/Dr.seikato">
+    <img src="https://www.facebook.com/favicon.ico"> Facebook
+  </a>
+  <a class="link-card" href="https://www.instagram.com/dr.seikato">
+    <img src="https://www.instagram.com/favicon.ico"> Instagram
+  </a>
+  <a class="link-card" href="https://www.instagram.com/dr.seikato.track_field">
+    <img src="https://www.instagram.com/favicon.ico"> Instagram (Track & Field)
+  </a>
+  <a class="link-card" href="https://www.threads.com/@dr.seikato">
+    <img src="https://www.threads.com/favicon.ico"> Threads
+  </a>
+</div>
+
+
+<!--
 ### Professional & Web
 
 - [Personal Website](https://sites.google.com/view/seikato/)
@@ -45,4 +117,4 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
 ### Media
 
 - [YouTube (Bourbaki Channel)](https://www.youtube.com/user/bourbakichannel)
-
+-->
