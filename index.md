@@ -180,13 +180,6 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
   </style>
 </head>
 <body>
-  <div class="container">
-
-    <header class="page-header">
-      <!-- <h1 class="page-title">Sei Kato / 加藤 整</h1> -->
-      <!-- <p class="page-subtitle">Links &amp; Profiles</p>-->
-    </header>
-
     <!-- Academic & Professional -->
     <section class="section">
       <div class="section-header">
@@ -272,12 +265,6 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
         </a>
       </div>
     </section>
-
-    <footer class="page-footer">
-      seikato.github.io
-    </footer>
-
-  </div>
 </body>
 </html>
 
