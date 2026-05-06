@@ -34,6 +34,162 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
 ---
 
 ## Links
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sei Kato — Links</title>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f7f5f0;
+      --surface: #ffffff;
+      --border: #e0dcd4;
+      --border-hover: #a89f94;
+      --text-primary: #1a1714;
+      --text-secondary: #6b6560;
+      --text-link: #2c2420;
+      --accent: #8b6f5e;
+      --accent-light: #f0ebe5;
+      --section-rule: #d4cfc8;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text-primary);
+      font-family: 'EB Garamond', Georgia, serif;
+      font-size: 17px;
+      line-height: 1.6;
+      min-height: 100vh;
+      padding: 3rem 1.5rem 5rem;
+    }
+
+    .container {
+      max-width: 760px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    .page-header {
+      margin-bottom: 3.5rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--section-rule);
+    }
+
+    .page-title {
+      font-size: 2rem;
+      font-weight: 400;
+      letter-spacing: 0.01em;
+      color: var(--text-primary);
+      margin-bottom: 0.25rem;
+    }
+
+    .page-subtitle {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    /* Section */
+    .section {
+      margin-bottom: 2.75rem;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .section-title {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-secondary);
+      white-space: nowrap;
+    }
+
+    .section-line {
+      flex: 1;
+      height: 1px;
+      background: var(--section-rule);
+    }
+
+    /* Grid */
+    .link-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+      gap: 0.6rem;
+    }
+
+    /* Card */
+    .link-card {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      padding: 0.7rem 0.9rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      text-decoration: none;
+      color: var(--text-link);
+      font-family: 'EB Garamond', serif;
+      font-size: 0.95rem;
+      transition: border-color 0.18s ease, background 0.18s ease, transform 0.12s ease;
+    }
+
+    .link-card:hover {
+      border-color: var(--border-hover);
+      background: var(--accent-light);
+      transform: translateY(-1px);
+    }
+
+    .link-card img {
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+      opacity: 0.85;
+    }
+
+    .link-card span {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* Footer */
+    .page-footer {
+      margin-top: 4rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--section-rule);
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      color: var(--text-secondary);
+      letter-spacing: 0.06em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <header class="page-header">
+      <h1 class="page-title">Sei Kato / 加藤 整</h1>
+      <p class="page-subtitle">Links &amp; Profiles</p>
+    </header>
+
     <!-- Academic & Professional -->
     <section class="section">
       <div class="section-header">
@@ -123,6 +279,10 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
     <footer class="page-footer">
       seikato.github.io
     </footer>
+
+  </div>
+</body>
+</html>
 
 <!--
 ### Professional & Web
