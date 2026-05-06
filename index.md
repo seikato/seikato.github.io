@@ -34,64 +34,95 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
 ---
 
 ## Links
+    <!-- Academic & Professional -->
+    <section class="section">
+      <div class="section-header">
+        <span class="section-title">Academic &amp; Professional</span>
+        <div class="section-line"></div>
+      </div>
+      <div class="link-grid">
+        <a class="link-card" href="https://scholar.google.com/citations?user=J6hftlYAAAAJ" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=32" alt="">
+          <span>Google Scholar</span>
+        </a>
+        <a class="link-card" href="https://researchmap.jp/seikato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=researchmap.jp&sz=32" alt="">
+          <span>researchmap</span>
+        </a>
+        <a class="link-card" href="https://www.toyota-tokyo.tech/members/seikato.html" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=toyota-tokyo.tech&sz=32" alt="">
+          <span>Toyota Research</span>
+        </a>
+        <a class="link-card" href="https://sites.google.com/view/seikato/" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=sites.google.com&sz=32" alt="">
+          <span>Personal Website</span>
+        </a>
+        <a class="link-card" href="https://www.linkedin.com/in/seikato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=32" alt="">
+          <span>LinkedIn</span>
+        </a>
+        <a class="link-card" href="https://about.me/seikato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=about.me&sz=32" alt="">
+          <span>About.me</span>
+        </a>
+      </div>
+    </section>
 
-### Academic & Professional
+    <!-- Development & AI -->
+    <section class="section">
+      <div class="section-header">
+        <span class="section-title">Development &amp; AI</span>
+        <div class="section-line"></div>
+      </div>
+      <div class="link-grid">
+        <a class="link-card" href="https://github.com/seikato/" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" alt="">
+          <span>GitHub</span>
+        </a>
+        <a class="link-card" href="https://huggingface.co/sei-san" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=32" alt="">
+          <span>Hugging Face</span>
+        </a>
+        <a class="link-card" href="https://www.youtube.com/user/bourbakichannel" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=youtube.com&sz=32" alt="">
+          <span>YouTube (Bourbaki)</span>
+        </a>
+      </div>
+    </section>
 
-<div class="link-grid">
-  <a class="link-card" href="https://scholar.google.com/citations?user=J6hftlYAAAAJ">
-    <img src="https://scholar.google.com/favicon.ico"> Google Scholar
-  </a>
-  <a class="link-card" href="https://researchmap.jp/seikato">
-    <img src="https://researchmap.jp/favicon.ico"> researchmap
-  </a>
-  <a class="link-card" href="https://www.toyota-tokyo.tech/members/seikato.html">
-    <img src="https://www.toyota-tokyo.tech/favicon.ico"> Toyota Research
-  </a>
-  <a class="link-card" href="https://sites.google.com/view/seikato/">
-    <img src="https://www.google.com/favicon.ico"> Personal Website
-  </a>
-  <a class="link-card" href="https://www.linkedin.com/in/seikato">
-    <img src="https://www.linkedin.com/favicon.ico"> LinkedIn
-  </a>
-  <a class="link-card" href="https://about.me/seikato">
-    <img src="https://about.me/favicon.ico"> About.me
-  </a>
-</div>
+    <!-- Social Media -->
+    <section class="section">
+      <div class="section-header">
+        <span class="section-title">Social Media</span>
+        <div class="section-line"></div>
+      </div>
+      <div class="link-grid">
+        <a class="link-card" href="https://x.com/seikato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=x.com&sz=32" alt="">
+          <span>X / Twitter</span>
+        </a>
+        <a class="link-card" href="https://www.facebook.com/Dr.seikato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=facebook.com&sz=32" alt="">
+          <span>Facebook</span>
+        </a>
+        <a class="link-card" href="https://www.instagram.com/dr.seikato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=instagram.com&sz=32" alt="">
+          <span>Instagram</span>
+        </a>
+        <a class="link-card" href="https://www.instagram.com/dr.seikato.track_field" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=instagram.com&sz=32" alt="">
+          <span>Instagram (Track &amp; Field)</span>
+        </a>
+        <a class="link-card" href="https://www.threads.com/@dr.seikato" target="_blank" rel="noopener">
+          <img src="https://www.google.com/s2/favicons?domain=threads.com&sz=32" alt="">
+          <span>Threads</span>
+        </a>
+      </div>
+    </section>
 
-### Development & AI
-
-<div class="link-grid">
-  <a class="link-card" href="https://github.com/seikato/">
-    <img src="https://github.com/favicon.ico"> GitHub
-  </a>
-  <a class="link-card" href="https://huggingface.co/sei-san">
-    <img src="https://huggingface.co/favicon.ico"> Hugging Face
-  </a>
-  <a class="link-card" href="https://www.youtube.com/user/bourbakichannel">
-    <img src="https://www.youtube.com/favicon.ico"> YouTube (Bourbaki)
-  </a>
-</div>
-
-### Social Media
-
-<div class="link-grid">
-  <a class="link-card" href="https://x.com/seikato">
-    <img src="https://abs.twimg.com/favicons/twitter.3.ico"> X / Twitter
-  </a>
-  <a class="link-card" href="https://www.facebook.com/Dr.seikato">
-    <img src="https://www.facebook.com/favicon.ico"> Facebook
-  </a>
-  <a class="link-card" href="https://www.instagram.com/dr.seikato">
-    <img src="https://www.instagram.com/favicon.ico"> Instagram
-  </a>
-  <a class="link-card" href="https://www.instagram.com/dr.seikato.track_field">
-    <img src="https://www.instagram.com/favicon.ico"> Instagram (Track & Field)
-  </a>
-  <a class="link-card" href="https://www.threads.com/@dr.seikato">
-    <img src="https://www.threads.com/favicon.ico"> Threads
-  </a>
-</div>
-
+    <footer class="page-footer">
+      seikato.github.io
+    </footer>
 
 <!--
 ### Professional & Web
