@@ -33,9 +33,6 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
 
 ---
 
-## Links
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -186,7 +183,7 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
   <div class="container">
 
     <header class="page-header">
-      <h1 class="page-title">Sei Kato / 加藤 整</h1>
+      <!-- <h1 class="page-title">Sei Kato / 加藤 整</h1> -->
       <p class="page-subtitle">Links &amp; Profiles</p>
     </header>
 
@@ -207,7 +204,7 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
         </a>
         <a class="link-card" href="https://www.toyota-tokyo.tech/members/seikato.html" target="_blank" rel="noopener">
           <img src="https://www.google.com/s2/favicons?domain=toyota-tokyo.tech&sz=32" alt="">
-          <span>Toyota Research</span>
+          <span>TOYOTA InfoTech</span>
         </a>
         <a class="link-card" href="https://sites.google.com/view/seikato/" target="_blank" rel="noopener">
           <img src="https://www.google.com/s2/favicons?domain=sites.google.com&sz=32" alt="">
