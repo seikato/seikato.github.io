@@ -15,7 +15,7 @@ In 2018, he has moved to Toyota Motor Corporation to lead the development of con
 
 ---
 
-##Links
+## Links
 
 ### Professional & Web
 
